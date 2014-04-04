@@ -1,0 +1,11 @@
+{
+  "name": "hm.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fredyang/bower-hm.js",
+  "authors": [
+    "Fred Yang <fredyang@semanticsworks.com>"
+  ],
+  "description": "a simple single page application framework",
+  "main": "./hm.js",
+  "license": "MIT"
+}
